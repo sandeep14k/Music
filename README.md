@@ -2,9 +2,10 @@ web location:https://sandeep14k.github.io/student-search-iitk/
 there is  lot of  bug in this website.
 i use  filtering json data on client-side and data is very big so website become slow so wait for some after making some change in input.
 there are two filtering select buttom are not working  like filtering data on basis of batch and gender not  working.
-also most important thing is  you have to start with filtering data with home town then it will start.
+also most important thing is  you have to start with filtering data with hometown then it will start.
 also enter only lower case in text box and also in last text box name will work
-
+1 enter something in homerown text box( exaple enter bi in lower case ) wait 1 min (some times 2min max)til getting  some data load then clear 
+now all flter option will work except batch and gender.
 
 
 
