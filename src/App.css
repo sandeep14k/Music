@@ -1,0 +1,10 @@
+.search{
+  background-color: white;
+  width: 70%;
+  margin: auto;
+  margin-top: 20px;
+  height: fit-content;
+  border-radius: 3px;
+  padding: 10px;
+  box-shadow: 4px 4px 2px #aaaaaa;
+}
