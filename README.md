@@ -1,3 +1,21 @@
+web location:https://sandeep14k.github.io/student-search-iitk/
+there is  lot of  bug in this website.
+i use  filtering json data on client-side and data is very big so website become slow so wait for some after making some change in input.
+there are two filtering select buttom are not working  like filtering data on basis of batch and gender not  working.
+also most important thing is  you have to start with filtering data with home town then it will start.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
