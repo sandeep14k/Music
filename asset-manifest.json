@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/student-search-iitk/static/css/main.8fccf975.css",
+    "main.js": "/student-search-iitk/static/js/main.2c52b824.js",
+    "static/js/787.bd864586.chunk.js": "/student-search-iitk/static/js/787.bd864586.chunk.js",
+    "static/media/logo.svg": "/student-search-iitk/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/student-search-iitk/index.html",
+    "main.8fccf975.css.map": "/student-search-iitk/static/css/main.8fccf975.css.map",
+    "main.2c52b824.js.map": "/student-search-iitk/static/js/main.2c52b824.js.map",
+    "787.bd864586.chunk.js.map": "/student-search-iitk/static/js/787.bd864586.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fccf975.css",
+    "static/js/main.2c52b824.js"
+  ]
+}
