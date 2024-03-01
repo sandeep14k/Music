@@ -415,6 +415,7 @@ export default function App() {
             <p>Location: {item.a}</p>
             <p>Blood Type: {item.b}</p>
             <p>Gender: {item.g}</p>
+             <p>Roll no :{item.r}</p>
           </li>
         ))}
       </ul>
